@@ -7,4 +7,8 @@
     <RootNamespace>EFC_Practice</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.16" />
+  </ItemGroup>
+
 </Project>
